@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PN17_I04_001_EV_2</string>
+    <string name="texto_guia">Mi primer guia</string>
+    <!--Botones del intent principal-->
+    <string name="Boton_calculadora">Calculadora</string>
+    <string name="Boton_login">Login</string>
+    <string name="Boton_datos">Datos</string>
+    <!--Botones del intent calculadora-->
+    <string name="btnAC">AC</string>
+    <string name="btnDEL">DEL</string>
+    <string name="btnSuma">+</string>
+    <string name="btnResta">-</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btnDiv">/</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btnMult">x</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btnIgual">=</string>
+    <string name="btn0">0</string>
+    <string name="btnIngresar">Ingresar</string>
+</resources>
