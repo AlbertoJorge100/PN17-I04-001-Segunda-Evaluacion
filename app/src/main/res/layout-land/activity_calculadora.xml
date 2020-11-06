@@ -54,7 +54,6 @@
                 android:elevation="2dp"
                 android:text="@string/btnAC"
                 android:textSize="14sp"
-                android:cornerRadius="28dp"
                 android:textStyle="bold" />
 
             <Button
